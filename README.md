@@ -1,2 +1,2 @@
-# react-nodejs-socket.io
+# react-nodejs-socket.io-MongoDB
 react + nodejs + socket.io example
